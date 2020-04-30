@@ -23,7 +23,7 @@
     "firebase": "^6.2.4",
     "font": "0.0.4",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-bootstrap": "^5.0.0",
     "ngx-editor": "^4.1.0",
     "rxjs": "~6.4.0",
